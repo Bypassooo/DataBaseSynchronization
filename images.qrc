@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>synlogo.ico</file>
+    </qresource>
+</RCC>
